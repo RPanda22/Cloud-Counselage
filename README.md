@@ -82,6 +82,8 @@ In conclusion, the Graduation Year Prediction project offers a valuable tool for
 Both projects aim to assist educational institutions, recruiters, and students in making informed decisions regarding career opportunities and academic planning.
 
 Navigate to the respective project directories (`Year of Graduation` or `Placement status prediction`) and find the colab files (.ipynb).
+All the project deliverables are available directly in the main branch itself.
+
 
 ## Contributor and Author
 
